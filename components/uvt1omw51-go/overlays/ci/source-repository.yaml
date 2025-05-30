@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: uvt1omw51-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/uvt1omw51-go
